@@ -1,4 +1,8 @@
 {
     "token": "NTY1MjIzNTI1MDA3NDkxMDcz.XKzTgQ.Zt7fbOOnOjKEdSktnzg135jK0JE",
-    "prefix": "-"
+    "prefix": "-",
+    "dbHost": "localhost",
+    "dbUsername": "root",
+    "dbPassword": "fredrick",
+    "dbName": "superbot"
 }
